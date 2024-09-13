@@ -67,7 +67,7 @@ python3 Simple_tcpClient.py
 
 📧 Grupo
 
--- 081200035 - Abrão Astério Junior
--- 081200034 - Alexandre Bezerra de Andrade
--- 081200021 - Daniel Santos de Sousa
--- 081200018 - Francisco Tommasi Silveira
+1. 081200035 - Abrão Astério Junior
+2. 081200034 - Alexandre Bezerra de Andrade
+3. 081200021 - Daniel Santos de Sousa
+4. 081200018 - Francisco Tommasi Silveira
